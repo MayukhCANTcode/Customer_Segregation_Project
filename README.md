@@ -213,3 +213,9 @@ Mayukh Das
 Second-Year Undergraduate, NIT Silchar
 
 Interested in Machine Learning, Data Analytics, UI/UX, and Software Development.
+
+![Customer Distribution](screenshots/customer_distribution.png)
+
+![Elbow Method](screenshots/elbow_method.png)
+
+![Final Clusters](screenshots/final_clusters.png)
